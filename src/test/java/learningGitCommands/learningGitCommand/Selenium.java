@@ -11,6 +11,11 @@ public class Selenium {
 		@Test
 		public void seleniumInterview() {
 			System.out.print("this is a interview items");
+			public void seleniumInterview2() {
+				System.out.print("this is a interview items");
+				public void seleniumInterview3() {
+					System.out.print("this is a interview items");
 		}
+		
 
 	}
