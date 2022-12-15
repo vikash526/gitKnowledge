@@ -12,6 +12,18 @@ public class Perfecto {
 		public void removePerfect() {
 			System.out.print("this is a remove items");
 		}
+		@Test
+		public void removePerfectaa() {
+			System.out.print("this is a vikash items");
+		}
+		@Test
+		public void removePerfect123() {
+			System.out.print("this is a 11111 items");
+		}
+		@Test
+		public void removePerfect456() {
+			System.out.print("this is a dfg items");
+		}
 
 	}
 
