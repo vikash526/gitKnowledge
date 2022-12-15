@@ -1,10 +1,16 @@
 package learningGitCommands.learningGitCommand;
 
+import org.testng.annotations.Test;
+
 public class Karate {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	@Test
+	public void karateGo() {
+		System.out.print("this is a karate items");
+	}
+	@Test
+	public void KarateCome() {
+		System.out.print("this is a karate no items");
 	}
 
-}
+	}

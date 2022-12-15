@@ -3,9 +3,6 @@ package learningGitCommands.learningGitCommand;
 import org.testng.annotations.Test;
 
 public class Selenium {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		@Test
 		public void seleniumLearn() {
@@ -17,5 +14,3 @@ public class Selenium {
 		}
 
 	}
-
-}

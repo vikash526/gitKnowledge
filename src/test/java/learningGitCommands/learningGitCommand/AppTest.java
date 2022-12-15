@@ -17,4 +17,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+    @Test
+	public void apptest() {
+		System.out.print("this is a app items");
+	}
+	@Test
+	public void desktoptest() {
+		System.out.print("this is a desktop items");
+	}
 }
